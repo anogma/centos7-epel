@@ -1,2 +1,4 @@
-centos7-epen
+centos7-epel
 ============
+
+CentOS with EPEL
